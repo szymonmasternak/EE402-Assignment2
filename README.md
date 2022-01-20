@@ -1,2 +1,16 @@
-# EE402-Assignment2
-Java Files for the 2nd Assignment for DCU EE402 module
+# DCU EE402 Assignment 2
+
+Repository for the Java drone client/server assignment 2020/2021.
+
+## How to Run?
+First Run the Server:
+
+    java ServerMain
+
+Then run the client:
+
+    java ClientMain localhost RobotName
+
+## Images
+
+![Screenshot](./images/screenshot.png)
